@@ -7,11 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-12 06:53:44 +0000",
       "minecraft:taiga": "2025-06-12 06:20:30 +0000",
       "minecraft:beach": "2025-06-12 06:22:57 +0000",
       "minecraft:river": "2025-06-12 06:15:56 +0000",
       "minecraft:cold_ocean": "2025-06-12 06:23:02 +0000",
-      "minecraft:forest": "2025-06-12 06:10:34 +0000"
+      "minecraft:forest": "2025-06-12 06:10:34 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-12 06:53:55 +0000"
     },
     "done": false
   },
@@ -348,6 +350,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-12 06:34:20 +0000",
+      "sweet_berries": "2025-06-12 06:56:37 +0000",
       "potato": "2025-06-12 06:28:53 +0000",
       "salmon": "2025-06-12 06:16:31 +0000",
       "cooked_salmon": "2025-06-12 06:18:04 +0000",
@@ -528,6 +531,7 @@
       "minecraft:pillager": "2025-06-12 06:25:12 +0000",
       "minecraft:skeleton": "2025-06-12 06:24:47 +0000",
       "minecraft:spider": "2025-06-12 06:26:10 +0000",
+      "minecraft:creeper": "2025-06-12 06:53:29 +0000",
       "minecraft:zombie": "2025-06-12 06:27:42 +0000"
     },
     "done": false
@@ -823,6 +827,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-12 06:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-12 06:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 06:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-12 06:53:30 +0000"
     },
     "done": true
   },
