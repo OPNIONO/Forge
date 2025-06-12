@@ -339,3 +339,35 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 18 more
 [12Jun2025 06:58:10.165] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Jun2025 07:20:27.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExpertDead[/127.135.228.59:34991] logged in with entity id 629 at (-700.657468366651, 70.0, 19.664910936290937)
+[12Jun2025 07:20:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExpertDead joined the game
+[12Jun2025 07:20:30.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:siluet but it was marked as removed already
+[12Jun2025 07:21:05.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:herobrine but it was marked as removed already
+[12Jun2025 07:21:44.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_walk but it was marked as removed already
+[12Jun2025 07:22:28.881] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23e00c72[id=<null>,name=deadpandude,properties={},legacy=false] (/127.38.62.236:33767) lost connection: Disconnected
+[12Jun2025 07:22:38.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:corruption but it was marked as removed already
+[12Jun2025 07:23:22.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:sub_anomaly_1 but it was marked as removed already
+[12Jun2025 07:23:39.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:corruption but it was marked as removed already
+[12Jun2025 07:23:49.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:sub_anomaly_1 but it was marked as removed already
+[12Jun2025 07:23:59.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: deadpandude[/127.38.62.236:57527] logged in with entity id 29635 at (-613.6796666963398, 65.0, 26.363893077826116)
+[12Jun2025 07:23:59.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deadpandude joined the game
+[12Jun2025 07:24:00.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_tp_beacon but it was marked as removed already
+[12Jun2025 07:24:31.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deadpandude> were u at
+[12Jun2025 07:24:37.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:null_tp_beacon but it was marked as removed already
+[12Jun2025 07:24:41.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExpertDead> im at a cave
+[12Jun2025 07:24:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deadpandude> tp me
+[12Jun2025 07:24:54.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported deadpandude to ExpertDead
+[12Jun2025 07:25:20.770] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:entity_spawner but it was marked as removed already
+[12Jun2025 07:25:34.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:entity_spawner but it was marked as removed already
+[12Jun2025 07:25:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExpertDead> i have alot of iron
+[12Jun2025 07:26:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deadpandude> were ru
+[12Jun2025 07:26:08.520] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:circuit_mineshaft_walk but it was marked as removed already
+[12Jun2025 07:26:38.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deadpandude> 26 iron
+[12Jun2025 07:26:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExpertDead has made the advancement [Acquire Hardware]
+[12Jun2025 07:27:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExpertDead has made the advancement [Isn't It Iron Pick]
+[12Jun2025 07:27:23.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thebrokenscript:siluet_stare but it was marked as removed already
+[12Jun2025 07:27:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <deadpandude> can i have some irons
+[12Jun2025 07:27:28.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExpertDead has made the advancement [Suit Up]
+[12Jun2025 07:27:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExpertDead> yeah
+[12Jun2025 07:27:30.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExpertDead> take
+[12Jun2025 07:27:38.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deadpandude has made the advancement [Acquire Hardware]
